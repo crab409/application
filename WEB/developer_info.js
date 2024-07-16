@@ -1,7 +1,7 @@
 developer = [
     ["홍유민", "202410520@dong-a.hs.kr", "yumin0878@naver.com"],
     ["이승민", "202410520@dong-a.hs.kr"]
-]
+] //2차원 배열의 0번째 요소는 반드시 이름이 올것.
 
 i = 0;
 while(i<developer.length) {
